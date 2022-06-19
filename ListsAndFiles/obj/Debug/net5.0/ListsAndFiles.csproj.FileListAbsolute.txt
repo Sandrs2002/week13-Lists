@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.deps.json
+/Users/aleks/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.runtimeconfig.json
+/Users/aleks/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.runtimeconfig.dev.json
+/Users/aleks/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.dll
+/Users/aleks/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ref/ListsAndFiles.dll
+/Users/aleks/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.pdb
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.AssemblyInfo.cs
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.dll
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ref/ListsAndFiles.dll
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.pdb
+/Users/aleks/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.genruntimeconfig.cache

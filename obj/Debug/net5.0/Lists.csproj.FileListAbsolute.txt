@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Lists/bin/Debug/net5.0/Lists.deps.json
+/Users/aleks/Projects/Lists/bin/Debug/net5.0/Lists.runtimeconfig.json
+/Users/aleks/Projects/Lists/bin/Debug/net5.0/Lists.runtimeconfig.dev.json
+/Users/aleks/Projects/Lists/bin/Debug/net5.0/Lists.dll
+/Users/aleks/Projects/Lists/bin/Debug/net5.0/ref/Lists.dll
+/Users/aleks/Projects/Lists/bin/Debug/net5.0/Lists.pdb
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.AssemblyInfo.cs
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.dll
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/ref/Lists.dll
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.pdb
+/Users/aleks/Projects/Lists/obj/Debug/net5.0/Lists.genruntimeconfig.cache
